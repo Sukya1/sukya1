@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **an electron project**
 
-- 🌱 I’m currently learning **Electron, Akamai, springboot, next.js**
+- 🌱 I’m currently learning **Electron, Akamai, Springboot, Next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
