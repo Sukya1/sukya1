@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sukya</h1>
 <h3 align="center">A Full-Stack developer based in Chicago</h3>
 
-- 🔭 I’m currently working on **a project called Clockin**
+- 🔭 I’m currently working on **an electron project**
 
-- 🌱 I’m currently learning **Electron**
+- 🌱 I’m currently learning **Electron, Akamai, springboot, next.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
